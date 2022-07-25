@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/category"
+        android:enabled="true"
+        android:icon="@drawable/cateogry"
+        android:title="category"/>
+
+    <item
+        android:id="@+id/mainshop"
+        android:enabled="true"
+        android:icon="@drawable/mainshop"
+        android:title="home"/>
+
+    <item
+        android:id="@+id/my"
+        android:enabled="true"
+        android:icon="@drawable/my"
+        android:title="user"/>
+
+</menu>

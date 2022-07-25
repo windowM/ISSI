@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/tshirt"
+        android:icon="@drawable/tshirt"
+        android:title="TShirt"/>
+
+    <item
+        android:id="@+id/wallet"
+        android:icon="@drawable/wallet"
+        android:title="Wallet"/>
+
+    <item
+        android:id="@+id/pnats"
+        android:icon="@drawable/pants"
+        android:title="Pants"/>
+    <item
+        android:id="@+id/shoes"
+        android:icon="@drawable/shoes"
+        android:title="Shoes"/>
+    <item
+        android:id="@+id/etc"
+        android:icon="@drawable/etc"
+        android:title="Etc"/>
+</menu>
